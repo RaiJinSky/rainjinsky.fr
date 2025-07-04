@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Vote</title>
+</head>
+<body>
+    <h1>Page Vote</h1>
+    <p>Votez pour votre option préférée!</p>
+    <nav>
+        <a href="index.html">Accueil</a> |
+        <a href="boutique.html">Boutique</a> |
+        <a href="reglement.html">Règlement</a>
+    </nav>
+</body>
+</html>
