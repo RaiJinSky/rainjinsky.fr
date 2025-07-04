@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Accueil</title>
+</head>
+<body>
+    <h1>Page d'accueil</h1>
+    <p>Bienvenue sur notre site web!</p>
+    <nav>
+        <a href="vote.html">Page Vote</a> |
+        <a href="boutique.html">Page Boutique</a> |
+        <a href="reglement.html">Page Règlement</a>
+    </nav>
+</body>
+</html>
